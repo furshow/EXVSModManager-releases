@@ -57,6 +57,11 @@ Versions before 1.4.2 (and the Linux version) are updated by hand: download the 
 - **[Issues](../../issues)**: bugs and ideas. Please say which version you use (it is in the window title) and
   copy the error from the log at the bottom of the window
 
+## Support
+If the Mod Manager is useful to you, you can support its development. It's optional, and everything stays free.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N3L02AMSOT)
+
 ## About this repository
 
 This repository only holds the **releases** (the downloadable files and their notes). The Mod Manager reads
